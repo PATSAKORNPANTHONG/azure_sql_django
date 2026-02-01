@@ -5,7 +5,7 @@ __pycache__/
 
 # Django
 *.log
-azure_project/settings.py
+local_settings.py
 db.sqlite3
 media
 staticfiles
